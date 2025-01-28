@@ -19,6 +19,7 @@ brew install --cask dbeaver-community # Database Manager
 brew install --cask postman # API Testing
 brew install --cask http-toolkit # API Testing
 brew install --cask drawio # Diagramming Tool
+
 # Utilities
 brew install --cask chatgpt # AI Chatbot
 brew install --cask maccy # Clipboard Manager
@@ -33,3 +34,5 @@ brew install --cask obsidian # Note Taking
 brew install --cask zotero # Research Paper Manager
 
 brew install --cask bitwarden # Password Manager
+
+brew install --cask dash # API Documentation
