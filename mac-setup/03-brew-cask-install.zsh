@@ -17,7 +17,8 @@ brew install --cask pycharm-ce # Code Editor
 # Dev Tools
 brew install --cask dbeaver-community # Database Manager
 brew install --cask postman # API Testing
-
+brew install --cask http-toolkit # API Testing
+brew install --cask drawio # Diagramming Tool
 # Utilities
 brew install --cask chatgpt # AI Chatbot
 brew install --cask maccy # Clipboard Manager
