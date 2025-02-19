@@ -6,3 +6,6 @@ brew install wget # Download files
 brew install curl # Download files
 brew install git # Version control
 brew install k6 # Load testing
+
+brew install openjdk # Java
+brew install zig # Programming Language
