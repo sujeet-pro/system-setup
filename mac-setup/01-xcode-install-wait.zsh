@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Function to check if Xcode Command Line Tools are installed
 check_xcode_tools_installed() {
     xcode-select -p &>/dev/null

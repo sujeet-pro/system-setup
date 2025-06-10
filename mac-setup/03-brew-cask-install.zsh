@@ -1,3 +1,15 @@
+# Fonts
+brew install --cask font-iosevka-nerd-font
+brew install --cask font-jetbrains-mono-nerd-font
+
+# System Utilities
+brew install --cask flux # Night light
+brew install --cask stats # System Monitor
+brew install --cask bartender # Menu Bar Manager
+brew install --cask maccy # Clipboard Manager
+brew install --cask rectangle # Window Manager
+
+brew install --cask rancher # Docker & Kubernetes
 # Browsers
 brew install --cask google-chrome # Browser
 # brew install --cask brave-browser # Browser
@@ -17,23 +29,22 @@ brew install --cask pycharm-ce # Code Editor
 brew install --cask cursor # AI Code Editor
 # Dev Tools
 brew install --cask dbeaver-community # Database Manager
+brew install --cask redis-insight # Redis Manager
 brew install --cask postman # API Testing
-brew install --cask http-toolkit # API Testing
+# brew install --cask http-toolkit # API Testing
 brew install --cask drawio # Diagramming Tool
 
 # Utilities
 brew install --cask chatgpt # AI Chatbot
-brew install --cask maccy # Clipboard Manager
-brew install --cask rectangle # Window Manager
 
 brew install --cask slack # Communication
 brew install --cask zoom # Communication
 
 brew install --cask nordvpn # VPN
 
-brew install --cask obsidian # Note Taking
-brew install --cask zotero # Research Paper Manager
+# brew install --cask obsidian # Note Taking
+# brew install --cask zotero # Research Paper Manager
 
-brew install --cask bitwarden # Password Manager
+# brew install --cask bitwarden # Password Manager
 
-brew install --cask dash # API Documentation
+# brew install --cask dash # API Documentation
